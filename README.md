@@ -1,6 +1,8 @@
-# student-calendar
+# smart-cal
 
-A unique solution to remote groupwork, allowing students to join respective classes and see their entire courseload on one synchronized UI. http://arlenyu.com/student-calendar/
+A unique solution to remote groupwork, allowing students to join respective classes and see their entire courseload on one synchronized UI. 
+
+Learn more @ http://arlenyu.com/smart-cal/
 
 ### Technologies Used
 * JavaScript
